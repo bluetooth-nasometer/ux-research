@@ -18,13 +18,13 @@ This repository contains UX research studies, user interviews, usability test re
 
 Our UX research aims to:
 
-Understand user needs, behaviors, and pain points.
+- Understand user needs, behaviors, and pain points.
 
-Evaluate the usability and effectiveness of design solutions.
+- Evaluate the usability and effectiveness of design solutions.
 
-Inform design decisions with qualitative and quantitative data.
+- Inform design decisions with qualitative and quantitative data.
 
-Ensure an inclusive and user-centered design approach.
+- Ensure an inclusive and user-centered design approach.
 
 ## Methodologies
 
